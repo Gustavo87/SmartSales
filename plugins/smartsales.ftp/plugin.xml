@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    id="smartsales.ftp"
+    version="0.2.11">
+    <name>FTP Plugin</name>
+    <description>Plugin de FTP</description>
+    <license>Apache 2.0</license>
+    <keywords>FTP</keywords>
+    <repo></repo>
+    <issue></issue>
+
+    <js-module src="www/FTPPlugin.js" name="FTPPlugin">
+        <clobbers target="FTPPlugin" />
+    </js-module>
+
+    <!-- android -->
+    <platform name="android">
+        <config-file target="res/xml/config.xml" parent="/*">
+            <feature name="FTPPlugin" >
+                <param name="android-package" value="SmartSalesPlugins.FTPPlugin"/>
+            </feature>
+        </config-file>
+        <source-file src="src/android/FTPPlugin.java" target-dir="src/SmartSalesPlugins" />
+    </platform>
+
+</plugin>

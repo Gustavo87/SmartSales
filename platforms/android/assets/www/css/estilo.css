@@ -1,0 +1,249 @@
+#ambiente{
+	color:red;
+	font-size:inherit;
+}
+
+.hide{
+    display: none;
+}
+
+.cargandoProductos{
+
+   background: url(file:///android_asset/img/ICN_Loader.gif) no-repeat center center;
+   height: 32px;
+   margin-top: 7px;
+
+}
+
+    div{
+        margin: 0;
+        padding: 0;
+        border: 0;
+        font-size: 100%;
+        font: inherit;
+        vertical-align: baseline;
+    }
+    p{
+            margin: 0;
+            padding: 0;
+            border: 0;
+            font-size: 100%;
+            font: inherit;
+            vertical-align: baseline;
+    }
+
+ .productos-encontrados::-webkit-scrollbar {
+                width: 8px;
+                height:190px;
+                background-color:#f3f3f3;
+            }
+
+             .productos-encontrados::-webkit-scrollbar-thumb {
+                background: #999;
+            }
+
+   .productos-encontrados {
+   -webkit-padding-start: 0;
+   list-style: none;
+   background-color: #FFF;
+   margin: 0;
+   min-height: 35px;
+   max-height: 400px;
+    overflow-y: auto;
+    border-top: 1px solid #e6e6e6;
+    }
+    .productos-encontrados div {
+        font-size: 14px;
+        color: #777;
+        line-height: 35px;
+        text-align: center;
+    }
+
+    .productos-encontrados > li {
+      border-bottom: 1px solid #E6E6E6;
+      color: #676767;
+      cursor: pointer;
+      padding: 0;
+      text-align: left;
+      text-indent: 0;
+      margin:0;
+      padding-left: 5px;
+      margin-top: 10px;
+      padding-bottom: 10px;
+     -webkit-user-select: none; /* Chrome, Opera, Safari */
+      user-select: none; /* Standard syntax */
+      background: url(file:///android_asset/img/ICN_Siguiente.png) no-repeat 97% center;
+      background-size:24px;
+    }
+
+    .productos-encontrados li > h1 {
+      font-size: 1.8em !important;
+    }
+
+    .productos-encontrados li > p {
+      color: #6AC949;
+      font-size: 1.4em !important;
+    }
+
+        .productos-encontrados li > h1 {
+      font-size: 1.35em !important;
+    }
+
+    .productos-encontrados li > p {
+      color: #6AC949;
+      font-size: 1.05em !important;
+    }
+
+        .productos-encontrados li > h1 {
+      font-size: 0.9em !important;
+      margin-top: 0px;
+      margin-bottom: 0px;
+    }
+
+    .productos-encontrados li > p {
+      color: #6AC949;
+      font-size: 0.9em !important;
+    }
+    .buscador-productos input:focus {
+    }
+      .buscador-productos input {
+      font-size: 1.18em;
+      background-size: 24px;
+    }
+    .buscador-productos input {
+      border-radius: 10px;
+      height: 4vh;
+      background: #fff url(file:///android_asset/img/ICN_Buscar.png) no-repeat 97% 50%;
+      background-size: 16px 16px;
+      text-indent: 4%;
+      margin-top: 2%;
+      -webkit-tap-highlight-color: rgba(0,0,0,0);
+      -webkit-user-select: none;
+      outline: none;
+      border: none;
+      color: #373737;
+    }
+
+.tabla{
+ background:#fff;
+ background-color:#FFFFFF; 
+ border-radius: 10px; 
+ -webkit-border-radius: 10px; 
+ -webkit-box-shadow:  5px 5px 5px 1px rgba(0, 0, 0, 0.2); 
+ box-shadow:  5px 5px 5px 1px rgba(0, 0, 0, 0.2);
+}
+
+.notificacion{
+	float: right;
+	display:block;
+	position:relative;
+	width:20px;
+	height:20px;
+	-webkit-border-radius: 5px;      
+	border-radius: 5px;
+		
+	border: 1px solid #F7C942;
+	background: #FADB4E;
+	font-weight: bold;
+	color: #333;
+	text-shadow: 0 1px 0 white;
+	background-image: -webkit-gradient(linear,left top,left bottom,from(#FCEDA7),to(#FADB4E));
+	background-image: -webkit-linear-gradient(#FCEDA7,#FADB4E);
+	background-image: -moz-linear-gradient(#FCEDA7,#FADB4E);
+	background-image: -ms-linear-gradient(#FCEDA7,#FADB4E);
+	background-image: -o-linear-gradient(#FCEDA7,#FADB4E);
+	background-image: linear-gradient(#FCEDA7,#FADB4E);
+	
+	-webkit-box-shadow:  4px 2px 5px 0px rgba(0, 0, 0, 0.2);        
+    box-shadow:  4px 2px 5px 0px rgba(0, 0, 0, 0.2);
+}
+
+.icono-no-pago {
+	background-image: url(images/no-pago.png);
+	background-repeat: no-repeat;
+	margin-right: -13px !important;
+	margin-top: -12px !important;
+	width: 25px;
+	height: 24px;
+	background-color: transparent;
+}
+
+.version{
+	color: #FC0;
+	font-size:11px;
+	text-align:center;
+}
+
+.footer {
+   position:absolute;
+   bottom:0;
+   width:100%;
+   height:60px;   /* Height of the footer */
+   
+}
+.ocultar_boton{
+  display:none;	
+}
+
+.mostrar_boton{
+  display:block;	
+}
+
+
+.limite_excedido{
+	color: #F7C942;
+	font-size:11px;
+	font-weight:bold;	
+}
+
+.limite_correcto{
+	color: #000;	
+	font-weight:bold;	
+}
+
+.limite_adicional{
+	color: #003;	
+	font-weight:bold;	
+}
+
+.saldoVencido{
+ color: #FF6633;
+}
+
+.datos_cliente{
+	height: auto;
+	width:80%;
+	font-size: 10px;
+	display:block;
+	padding-top:10px;
+	margin-top: -39px;
+	margin-bottom:-18px;
+}
+
+#spCodCliente{
+font-weight:bold;	
+font-size:12px;
+}
+
+.existencia {
+	font-size:12px;
+}
+
+.hayUnidades { 
+	color: #00A23E;
+}
+
+#imgConfig{
+	  display: block;
+  position: absolute;
+  bottom: 70px;
+  z-index: 100;
+  right: 15px;
+		
+}
+
+
+.minuta{
+  background:#D3D3D3;
+ margin:5px;
+}

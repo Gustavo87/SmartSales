@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    id="smartsales.bluetooth"
+    version="0.2.11">
+    <name>Bluetooth Plugin</name>
+    <description>Plugin de Bluetooth</description>
+    <license>Apache 2.0</license>
+    <keywords>Bluetooth</keywords>
+    <repo></repo>
+    <issue></issue>
+
+    <js-module src="www/BluetoothPlugin.js" name="BluetoothPlugin">
+        <clobbers target="BluetoothPlugin" />
+    </js-module>
+
+    <!-- android -->
+    <platform name="android">
+        <config-file target="res/xml/config.xml" parent="/*">
+            <feature name="BluetoothPlugin" >
+                <param name="android-package" value="SmartSalesPlugins.BluetoothPlugin"/>
+            </feature>
+        </config-file>
+        <source-file src="src/android/BluetoothPlugin.java" target-dir="src/SmartSalesPlugins" />
+    </platform>
+
+</plugin>

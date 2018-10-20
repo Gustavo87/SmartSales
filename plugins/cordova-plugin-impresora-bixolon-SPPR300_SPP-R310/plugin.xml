@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
+    id="cordova-plugin-impresora-bixolon-SPPR300_SPP-R310"
+    version="1.0.0">
+    <name>Cordova Plugin Impresora Bixolon SPPR300 y SPP-R310</name>
+    <description></description>
+    <license>MIT</license>
+    <keywords></keywords>
+    <repo></repo>
+    <issue></issue>
+
+    <!-- android -->
+    <platform name="android">
+      <js-module src="www/plugin.js" name="plugin">
+        <runs/>
+
+        <!-- This is the window variable name you want, like window.MyCordovaPlugin -->
+        <clobbers target="ImpresoraBixolonSPPR300ySPPR310" />
+      </js-module>
+      <config-file target="res/xml/config.xml" parent="/*">
+        <feature name="ImpresoraBixolonSPPR300ySPPR310">
+          <param name="android-package" value="com.example.ImpresoraBixolonSPPR300ySPPR310" />
+          <param name="onload" value="true" />
+        </feature>
+      </config-file>
+
+      <source-file src="src/android/com/example/ImpresoraBixolonSPPR300ySPPR310.java" target-dir="src/com/example/" />
+
+      <source-file src="src/android/com/example/libs/bixolon_printer_v124.jar" target-dir="libs" framework="true"/>
+      <source-file src="src/android/com/example/libs/icu4j-58_1.jar" target-dir="libs" framework="true"/>
+      <source-file src="src/android/com/example/libs/jpos116-controls.jar" target-dir="libs" framework="true"/>
+      <source-file src="src/android/com/example/libs/xerces.jar" target-dir="libs" framework="true"/>
+
+    </platform>
+</plugin>

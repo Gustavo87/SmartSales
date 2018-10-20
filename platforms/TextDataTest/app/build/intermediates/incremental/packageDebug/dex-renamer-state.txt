@@ -1,0 +1,7 @@
+#Fri Apr 06 16:00:43 CST 2018
+base.0=C\:\\Users\\gbaca\\Documents\\Desarrollo\\SVN\\Autoventa\\platforms\\TextDataTest\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_48338970d25074bed27778b395048249c5e782f1
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\gbaca\\Documents\\Desarrollo\\SVN\\Autoventa\\platforms\\TextDataTest\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_24461b2f7e7dd8ad1d32b2c905c10204b593c744\\classes.dex
+base.1=C\:\\Users\\gbaca\\Documents\\Desarrollo\\SVN\\Autoventa\\platforms\\TextDataTest\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_24461b2f7e7dd8ad1d32b2c905c10204b593c744
+file.0=C\:\\Users\\gbaca\\Documents\\Desarrollo\\SVN\\Autoventa\\platforms\\TextDataTest\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_48338970d25074bed27778b395048249c5e782f1\\classes.dex

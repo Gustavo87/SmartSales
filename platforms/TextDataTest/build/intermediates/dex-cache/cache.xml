@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\gbaca\Documents\Desarrollo\SVN\App Moviles\Autoventa_Migrado_Produccion\platforms\TextDataTest\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\gbaca\Documents\Desarrollo\SVN\App Moviles\Autoventa_Migrado_Produccion\platforms\TextDataTest\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_526c31323fa08623fa294b73d2d2c24224118b89\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gbaca\Documents\Desarrollo\SVN\Autoventa\platforms\TextDataTest\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\gbaca\Documents\Desarrollo\SVN\Autoventa\platforms\TextDataTest\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_48338970d25074bed27778b395048249c5e782f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gbaca\Documents\Desarrollo\SVN\Autoventa\platforms\TextDataTest\app\libs\bixolon_printer_v121.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3edd0c95ffe1b357bbd7652b217356c74fd1348f">
+        <dex dex="C:\Users\gbaca\Documents\Desarrollo\SVN\Autoventa\platforms\TextDataTest\app\build\intermediates\transforms\dex\debug\folders\1000\2\bixolon_printer_v121_ddd3a2ca0926b70a99250516eea0d255da7bdb7a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gbaca\Documents\Desarrollo\SVN\App Moviles\Autoventa_Migrado_Produccion\platforms\TextDataTest\app\libs\xerces.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="214870287756f1890b43451d01c422a8a490bbb1">
+        <dex dex="C:\Users\gbaca\Documents\Desarrollo\SVN\App Moviles\Autoventa_Migrado_Produccion\platforms\TextDataTest\app\build\intermediates\transforms\dex\debug\folders\1000\2\xerces_c5c63d85691fb3fee40f2639d361d9c0a684cd80\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gbaca\Documents\Desarrollo\SVN\App Moviles\Autoventa_Migrado_Produccion\platforms\TextDataTest\app\libs\bixolon_printer_v121.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3edd0c95ffe1b357bbd7652b217356c74fd1348f">
+        <dex dex="C:\Users\gbaca\Documents\Desarrollo\SVN\App Moviles\Autoventa_Migrado_Produccion\platforms\TextDataTest\app\build\intermediates\transforms\dex\debug\folders\1000\2\bixolon_printer_v121_871bea04de2a7477517b6e41783ad93f22c3e4c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gbaca\Documents\Desarrollo\SVN\App Moviles\Autoventa_Migrado_Produccion\platforms\TextDataTest\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1d209e1d18e9e5cb3c9eccd246f68f1b40764b20">
+        <dex dex="C:\Users\gbaca\Documents\Desarrollo\SVN\App Moviles\Autoventa_Migrado_Produccion\platforms\TextDataTest\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_17f43aa00f22e97362a538d9604ddb009eae2660\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gbaca\Documents\Desarrollo\SVN\Autoventa\platforms\TextDataTest\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1e91f2cf21c0e5b3de862f274fb857c3b279d2e1">
+        <dex dex="C:\Users\gbaca\Documents\Desarrollo\SVN\Autoventa\platforms\TextDataTest\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_24461b2f7e7dd8ad1d32b2c905c10204b593c744\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gbaca\Documents\Desarrollo\SVN\Autoventa\platforms\TextDataTest\app\libs\jpos114-controls.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d3870e42f55d421f109b869eb6a04059af4fc04d">
+        <dex dex="C:\Users\gbaca\Documents\Desarrollo\SVN\Autoventa\platforms\TextDataTest\app\build\intermediates\transforms\dex\debug\folders\1000\2\jpos114-controls_56ea569cf177deb3b14e9b83b47c112523adb09e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gbaca\Documents\Desarrollo\SVN\App Moviles\Autoventa_Migrado_Produccion\platforms\TextDataTest\app\libs\jpos114-controls.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d3870e42f55d421f109b869eb6a04059af4fc04d">
+        <dex dex="C:\Users\gbaca\Documents\Desarrollo\SVN\App Moviles\Autoventa_Migrado_Produccion\platforms\TextDataTest\app\build\intermediates\transforms\dex\debug\folders\1000\2\jpos114-controls_4fb5828343ff240b782e7d6ca1e0aa793fe582f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gbaca\Documents\Desarrollo\SVN\Autoventa\platforms\TextDataTest\app\libs\xerces.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="214870287756f1890b43451d01c422a8a490bbb1">
+        <dex dex="C:\Users\gbaca\Documents\Desarrollo\SVN\Autoventa\platforms\TextDataTest\app\build\intermediates\transforms\dex\debug\folders\1000\2\xerces_b3b64074aa9d3d567b3a5b9f35c24ffef5315a29\classes.dex" />
+    </item>
+
+</items>

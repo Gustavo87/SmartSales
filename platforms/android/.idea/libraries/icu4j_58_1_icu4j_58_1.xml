@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="icu4j-58_1.icu4j-58_1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/icu4j-58_1/icu4j-58_1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,11 @@
+{
+  "name": "cordova-plugin-impresora-bixolon-newsdk",
+  "version": "1.0.0",
+  "cordova": {
+    "id": "cordova-plugin-impresora-bixolon-newsdk",
+    "platforms": [
+      "android"
+    ]
+  },
+  "description": "Imprime con la impresora Bixolon SPP-R300"
+}

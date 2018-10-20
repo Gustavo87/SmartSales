@@ -1,0 +1,7 @@
+#Tue Aug 29 16:17:07 CST 2017
+base.0=C\:\\Users\\gbaca\\Documents\\Desarrollo\\SVN\\App Moviles\\Autoventa_Migrado_Produccion\\platforms\\TextDataTest1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_27b81f321df79f53d71b4e21bc28b027061d7591
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\gbaca\\Documents\\Desarrollo\\SVN\\App Moviles\\Autoventa_Migrado_Produccion\\platforms\\TextDataTest1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_2c8504e68e49c53a00f27dfd5ad159492dbd079c\\classes.dex
+base.1=C\:\\Users\\gbaca\\Documents\\Desarrollo\\SVN\\App Moviles\\Autoventa_Migrado_Produccion\\platforms\\TextDataTest1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_2c8504e68e49c53a00f27dfd5ad159492dbd079c
+file.0=C\:\\Users\\gbaca\\Documents\\Desarrollo\\SVN\\App Moviles\\Autoventa_Migrado_Produccion\\platforms\\TextDataTest1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_27b81f321df79f53d71b4e21bc28b027061d7591\\classes.dex

@@ -1,0 +1,52 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.SmartSales.AutoVenta"
+        },
+        "smartsales.ftp": {
+            "PACKAGE_NAME": "com.SmartSales.AutoVenta"
+        },
+        "smartsales.bluetooth": {
+            "PACKAGE_NAME": "com.SmartSales.AutoVenta"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "com.SmartSales.AutoVenta"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "com.SmartSales.AutoVenta"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.SmartSales.AutoVenta"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "com.SmartSales.AutoVenta"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "com.SmartSales.AutoVenta"
+        },
+        "it.alfonsovinti.cordova.plugins.bixolonprint": {
+            "PACKAGE_NAME": "com.SmartSales.AutoVenta"
+        },
+        "smartsales.leerArchivo": {
+            "PACKAGE_NAME": "com.SmartSales.AutoVenta"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "com.SmartSales.AutoVenta"
+        },
+        "cordova-plugin-impresora-bixolon-SPPR300_SPP-R310": {
+            "PACKAGE_NAME": "com.SmartSales.AutoVenta"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "com.SmartSales.AutoVenta"
+        }
+    }
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CordovaLib/CordovaLib.iml" filepath="$PROJECT_DIR$/CordovaLib/CordovaLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android.iml" filepath="$PROJECT_DIR$/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bixolon_printer_v124/bixolon_printer_v124.iml" filepath="$PROJECT_DIR$/bixolon_printer_v124/bixolon_printer_v124.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commons-net-3.5/commons-net-3.5.iml" filepath="$PROJECT_DIR$/commons-net-3.5/commons-net-3.5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/icu4j-58_1/icu4j-58_1.iml" filepath="$PROJECT_DIR$/icu4j-58_1/icu4j-58_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jpos116-controls/jpos116-controls.iml" filepath="$PROJECT_DIR$/jpos116-controls/jpos116-controls.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xerces/xerces.iml" filepath="$PROJECT_DIR$/xerces/xerces.iml" />
+    </modules>
+  </component>
+</project>

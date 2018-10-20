@@ -1,0 +1,3 @@
+// GENERATED FILE - DO NOT EDIT
+include ":", ':commons-net-3.5', ':bixolon_printer_v124', ':jpos116-controls', ':icu4j-58_1', ':xerces'
+include ":CordovaLib"

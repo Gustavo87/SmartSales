@@ -1,0 +1,10 @@
+#Tue Aug 29 16:17:05 CST 2017
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.2=C\:\\Users\\gbaca\\Documents\\Desarrollo\\SVN\\App Moviles\\Autoventa_Migrado_Produccion\\platforms\\TextDataTest1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\xerces_5a44c3c84fb268a0cf12f15d05bdf4d7a46dbfaa
+base.1=C\:\\Users\\gbaca\\Documents\\Desarrollo\\SVN\\App Moviles\\Autoventa_Migrado_Produccion\\platforms\\TextDataTest1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\jpos114-controls_ad11aee89f99510860364e2b4182338eeebeddf3
+base.0=C\:\\Users\\gbaca\\Documents\\Desarrollo\\SVN\\App Moviles\\Autoventa_Migrado_Produccion\\platforms\\TextDataTest1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\bixolon_printer_v121_8971153e809b34959fcfc5675a0cd75058ce5f02
+file.2=C\:\\Users\\gbaca\\Documents\\Desarrollo\\SVN\\App Moviles\\Autoventa_Migrado_Produccion\\platforms\\TextDataTest1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\xerces_5a44c3c84fb268a0cf12f15d05bdf4d7a46dbfaa\\classes.dex
+file.1=C\:\\Users\\gbaca\\Documents\\Desarrollo\\SVN\\App Moviles\\Autoventa_Migrado_Produccion\\platforms\\TextDataTest1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\jpos114-controls_ad11aee89f99510860364e2b4182338eeebeddf3\\classes.dex
+file.0=C\:\\Users\\gbaca\\Documents\\Desarrollo\\SVN\\App Moviles\\Autoventa_Migrado_Produccion\\platforms\\TextDataTest1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\bixolon_printer_v121_8971153e809b34959fcfc5675a0cd75058ce5f02\\classes.dex
